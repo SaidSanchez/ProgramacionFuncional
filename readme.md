@@ -47,9 +47,9 @@ node +NombreDelArchivo.js
 
 ### Elaborado con:
 
-*[Atom]
-*[Node.js (para ejecutr el programa)]
-*[Nano]
+* Atom
+* Node.js (para ejecutr el programa)
+* Nano
 
 ## Authors
 
